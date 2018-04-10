@@ -5,3 +5,5 @@ if x:
         print ("block 2")
     print ("block 1")
 print ("block 0")
+
+print ("test print")
